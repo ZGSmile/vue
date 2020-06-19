@@ -7,7 +7,7 @@
 export default {
   data () {
     return {
-      msg: 'goods view'
+      msg: 'goods -  view'
     }
   }
 }
